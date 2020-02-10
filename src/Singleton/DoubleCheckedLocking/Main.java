@@ -1,6 +1,7 @@
 package Singleton.DoubleCheckedLocking;
 
-public class Main {
+public class
+Main {
     public static void main(String[] args) {
         Captain captain1 = Captain.getCaptain();
         System.out.println("Trying to make another captain for your team:");
