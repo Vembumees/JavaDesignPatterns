@@ -1,4 +1,4 @@
-package Prototype;
+package Prototype.prototype;
 
 import java.util.Random;
 

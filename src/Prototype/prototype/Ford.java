@@ -1,4 +1,4 @@
-package Prototype;
+package Prototype.prototype;
 
 public class Ford extends BasicCar{
 
