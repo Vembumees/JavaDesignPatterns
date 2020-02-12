@@ -12,7 +12,7 @@ public class Triangle implements  TriInterface{
 
     @Override
     public void aboutTriangle() {
-        System.out.println("Triangle object with base: " +this.base + " unit and height: " +this.height+ " unit.");
+        System.out.println("Triangle object with base: " +this.base + " unit and height: " +this.height+ " unit. ");
     }
 
     @Override
