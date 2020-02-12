@@ -1,4 +1,4 @@
-package Facade;
+package Facade.Normal;
 
 public class RobotBody {
 
