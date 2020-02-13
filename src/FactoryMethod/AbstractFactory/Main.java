@@ -2,7 +2,7 @@ package FactoryMethod.AbstractFactory;
 
 public class Main {
     public static void main(String[] args) {
-        AnimalFactory myAnimalFactory;
+        IAnimalFactory myAnimalFactory;
         Dog myDog;
         Tiger myTiger;
         System.out.println("Abstract factory pattern \n");

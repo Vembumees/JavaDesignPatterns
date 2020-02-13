@@ -1,6 +1,6 @@
 package FactoryMethod.AbstractFactory;
 
-public class PetAnimalFactory implements AnimalFactory{
+public class PetAnimalFactory implements IAnimalFactory {
     @Override
     public Dog createDog() {
         return new PetDog();

@@ -1,6 +1,6 @@
 package FactoryMethod.AbstractFactory;
 
-interface AnimalFactory
+interface IAnimalFactory
 {
     Dog createDog();
     Tiger createTiger();
