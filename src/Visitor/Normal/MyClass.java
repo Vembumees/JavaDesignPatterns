@@ -1,4 +1,4 @@
-package Visitor;
+package Visitor.Normal;
 
 public class MyClass implements IOriginalInterface {
     private final int myInt;

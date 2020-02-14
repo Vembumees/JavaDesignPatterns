@@ -1,4 +1,4 @@
-package Visitor;
+package Visitor.Normal;
 
 public class ConcreteVisitor implements IVisitor{
 
