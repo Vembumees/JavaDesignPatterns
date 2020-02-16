@@ -1,4 +1,4 @@
-package Bridge;
+package Bridge.Example1;
 
 public class DVD extends ElectronicGoods {
 //    public DVD(State state){

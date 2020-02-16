@@ -1,4 +1,4 @@
-package Bridge;
+package Bridge.Example1;
 
 public class OnState implements IState {
 

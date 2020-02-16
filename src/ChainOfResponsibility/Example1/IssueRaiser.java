@@ -1,4 +1,4 @@
-package ChainOfResponsibility;
+package ChainOfResponsibility.Example1;
 
 public class IssueRaiser {
     public IReceiver setFirstReceiver;

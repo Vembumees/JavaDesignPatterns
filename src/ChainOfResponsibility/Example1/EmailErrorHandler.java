@@ -1,13 +1,13 @@
-package ChainOfResponsibility;
+package ChainOfResponsibility.Example1;
 
-public class FaxErrorHandler implements IReceiver {
+public class EmailErrorHandler implements IReceiver {
     private IReceiver nextReceiver;
 
     @Override
     public boolean handleMessage(Message message) {
-        if (message.text.contains("Fax"))
+        if (message.text.contains("Email"))
         {
-            System.out.println(" FaxErrorHandler processed " +message.priority + " prirority issue :" + message.text);
+            System.out.println(" EmailErrorHandler processed " +message.priority + " priority issue: " +message.text);
             return true;
         }
         else
