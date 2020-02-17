@@ -1,4 +1,4 @@
-package Composite;
+package Composite.Example1;
 
 public class SimpleEmployee implements IEmployee {
     private String name;

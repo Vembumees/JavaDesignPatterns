@@ -1,4 +1,4 @@
-package Decorator;
+package Decorator.Examples1;
 
 public class PaintDecorator extends  AbstractDecorator{
     public void makeHouse()

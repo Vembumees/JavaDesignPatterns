@@ -1,4 +1,4 @@
-package Decorator;
+package Decorator.Examples1;
 
 public class ConcreteComponent extends Component {
     @Override

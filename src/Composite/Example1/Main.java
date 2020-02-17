@@ -1,4 +1,4 @@
-package Composite;
+package Composite.Example1;
 
 public class Main {
     /**Principal is on top of college.
