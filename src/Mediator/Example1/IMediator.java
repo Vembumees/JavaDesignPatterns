@@ -1,4 +1,4 @@
-package Mediator;
+package Mediator.Example1;
 
 public interface IMediator {
     void register(Employee employee);

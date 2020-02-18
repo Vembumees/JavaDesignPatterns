@@ -1,4 +1,4 @@
-package Mediator;
+package Mediator.Example1;
 
 abstract class Employee {
     protected IMediator mediator;

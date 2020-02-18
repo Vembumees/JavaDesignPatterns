@@ -1,4 +1,4 @@
-package Mediator;
+package Mediator.Example1;
 
 public class SeniorEmployee extends Employee {
     public SeniorEmployee(IMediator mediator, String name)

@@ -1,4 +1,4 @@
-package Mediator;
+package Mediator.Example1;
 
 public class Main {
     public static void main(String[] args) throws InterruptedException {

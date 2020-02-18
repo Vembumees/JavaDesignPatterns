@@ -1,4 +1,4 @@
-package Mediator;
+package Mediator.Example1;
 
 import java.time.LocalDateTime;
 import java.util.ArrayList;
