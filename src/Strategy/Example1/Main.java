@@ -1,4 +1,4 @@
-package Strategy;
+package Strategy.Example1;
 
 public class Main {
 

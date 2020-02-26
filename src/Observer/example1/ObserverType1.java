@@ -1,4 +1,4 @@
-package Observer;
+package Observer.example1;
 
 public class ObserverType1 implements IObserver {
 
