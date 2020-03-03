@@ -1,4 +1,4 @@
-package State;
+package State.Example1;
 
 public class Main {
     public static void main(String[] args) {

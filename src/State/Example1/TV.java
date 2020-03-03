@@ -1,4 +1,4 @@
-package State;
+package State.Example1;
 
 public class TV {
     private IPossibleState currentState;

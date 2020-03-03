@@ -1,4 +1,4 @@
-package State;
+package State.Example1;
 
 public interface IPossibleState {
     void pressOnButton(TV context);
